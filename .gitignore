@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# VS Code workspace settings (safe to ignore unless sharing exact setup)
+.vscode/
+
+# Common for macOS
+.DS_Store
+
+# Automatically generated Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local test data or scratch files
+*.csv
+*.txt
+*.log
+*.bak
+*.tmp
+
+# Personal notes or hidden files (optional)
+*.md~
+*.swp
