@@ -37,8 +37,8 @@ This repository is organised by chapters of the textbook, with each chapter cont
     - [View Chapter 4 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_04_Exercises.ipynb)
    
 - **Chapter 5: Pandas** - Currently working on.
-    - [View Chapter 5 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_05.ipynb)
-    - [View Chapter 5 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_05_Exercises.ipynb)
+    - [View Chapter 5 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2005/Chapter_05.ipynb)
+    - [View Chapter 5 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2005/Chapter_05_Exercises.ipynb)
 ---
 
 ## Tools & Technologies Used
