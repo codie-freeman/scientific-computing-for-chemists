@@ -24,9 +24,21 @@ This repository is organised by chapters of the textbook, with each chapter cont
     - [View Chapter 1 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2001/Chapter_01.ipynb)
     - [View Chapter 1 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2001/Chapter_01_Exercises.ipynb)
 
-- **Chapter 2: Intermediate Python** - Currently working on.
+- **Chapter 2: Intermediate Python** - **Completed**
     - [View Chapter 2 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2002/Chapter_02.ipynb)
     - [View Chapter 2 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2002/Chapter_02_Exercises.ipynb)
+  
+- **Chapter 3: Plotting With Matplotlib** - **Completed**
+    - [View Chapter 3 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2003/Chapter_03.ipynb)
+    - [View Chapter 3 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2003/Chapter_03_Exercises.ipynb)
+  
+- **Chapter 4: NumPy** - **Completed**
+    - [View Chapter 4 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_04.ipynb)
+    - [View Chapter 4 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_04_Exercises.ipynb)
+   
+- **Chapter 5: Pandas** - Currently working on.
+    - [View Chapter 5 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_05.ipynb)
+    - [View Chapter 5 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2004/Chapter_05_Exercises.ipynb)
 ---
 
 ## Tools & Technologies Used
@@ -73,7 +85,7 @@ This plan prioritizes my study of the "Scientific Computing for Chemists" textbo
 * **Chapters:** 6, 8, 10, 11, 12, 14, 15
 * **Why:** Direct application of core skills to chemical challenges:
     * **Signal & Noise (Ch 6):** Critical for processing raw analytical signals.
-    * **Mathematics (Ch 8) / Optimization (Ch 14):** For data fitting, modeling, and parameter optimization.
+    * **Mathematics (Ch 8) / Optimization (Ch 14):** For data fitting, modelling, and parameter optimization.
     * **Plotting with Seaborn (Ch 10):** Professional visualization of analytical results.
     * **NMR (Ch 11):** Vital if solid-state NMR is part of your placement's characterization methods.
     * **Machine Learning (Ch 12):** Essential for chemometrics, classification, and predictive analysis of analytical data.
