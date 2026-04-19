@@ -39,6 +39,10 @@ This repository is organised by chapters of the textbook, with each chapter cont
 - **Chapter 5: Pandas** - **Completed**
     - [View Chapter 5 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2005/Chapter_05.ipynb)
     - [View Chapter 5 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2005/Chapter_05_Exercises.ipynb)
+  
+- **Chapter 13: SciKit Learn** - **Working Through**
+    - [View Chapter 13 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2013/Chapter_13.ipynb)
+    - [View Chapter 13 Exercises Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2013/Chapter_13_Exercises.ipynb)
 
 - **Chapter 15: RDKit** - **Completed**
     - [View Chapter 15 Notebook](https://github.com/codie-freeman/scientific-computing-for-chemists/blob/main/Basic%20Scientific%20Computing%20Skills/Chapter%2015/Chapter_15.ipynb)
